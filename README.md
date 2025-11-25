@@ -4,7 +4,7 @@
     <br>
     <img src="assets/logo.png"/>
     <br>
-<p>
+
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/zjunlp/ModelEditingPapers) 
 ![](https://img.shields.io/github/last-commit/nku-zhichengzhang/Awesome-Emotion_LLM_and_MLLM-Papers?color=green) 
@@ -13,7 +13,7 @@
 ![](https://img.shields.io/badge/PaperNumber-190-brightgreen)
 
 List of **Papers**, **Datasets** and **Code Repositories** for ***Affective Computing with LLM and MLLM***. This repo contains a majority of research works in the affective computing field, but it still may not encompass all the noteworthy works.
-
+<p>
 
 > If you find we miss some related works or have wrong clarifications, please contact us or open issues!
 > 
