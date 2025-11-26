@@ -1,5 +1,5 @@
 # Awesome-Emotion LLM and MLLM
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/zjunlp/ModelEditingPapers) 
+[![Awesome](https://awesome.re/badge.svg)](https:zzcheng.top) 
 ![](https://img.shields.io/github/last-commit/nku-zhichengzhang/Awesome-emotion_llm_and_mllm?color=green) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![](https://img.shields.io/badge/PRs-Welcome-red) 
