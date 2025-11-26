@@ -278,6 +278,12 @@ List of **Papers**, **Datasets** and **Code Repositories** for ***Affective Comp
 
 - **Affectgpt: A new dataset, model, and benchmark for emotion understanding with multimodal large language models** [[ICML 2025]](https://arxiv.org/pdf/2501.16566) [[Code]](https://github.com/zeroQiaoba/AffectGPT) ![](https://img.shields.io/badge/Text-yellow) ![](https://img.shields.io/badge/Audio-blue) ![](https://img.shields.io/badge/Video-red)
 
+- **AffectGPT-R1: Leveraging Reinforcement Learning for Open-Vocabulary Multimodal Emotion Recognition** [[Arxiv 2025]](https://arxiv.org/pdf/2508.01318) ![](https://img.shields.io/badge/Text-yellow) ![](https://img.shields.io/badge/Audio-blue) ![](https://img.shields.io/badge/Video-red)
+
+- **OV-MER: Towards Open-Vocabulary Multimodal Emotion Recognition** [[Arxiv 2024]](https://arxiv.org/pdf/2410.01495) [[Code]](https://github.com/zeroQiaoba/AffectGPT) ![](https://img.shields.io/badge/Text-yellow) ![](https://img.shields.io/badge/Audio-blue) ![](https://img.shields.io/badge/Video-red)
+
+- **EmoPrefer: Can Large Language Models Understand Human Emotion Preferences?** [[Arxiv 2025]](https://www.arxiv.org/pdf/2507.04278) ![](https://img.shields.io/badge/Text-yellow) ![](https://img.shields.io/badge/Audio-blue) ![](https://img.shields.io/badge/Video-red)
+
 - **Dialoguellm: Context and emotion knowledge-tuned large language models for emotion recognition in conversations** [[Neural Networks 2025]](https://arxiv.org/pdf/2310.11374) ![](https://img.shields.io/badge/Text-yellow) ![](https://img.shields.io/badge/Video-red)
 
 - **EMO-Avatar: An LLM-Agent-Orchestrated Framework for Multimodal Emotional Support in Human Animation** [[ACM MM 2025]](https://dl.acm.org/doi/pdf/10.1145/3746027.3762030?casa_token=r8wXM7kKSu0AAAAA:bvY66VbeNeoZqJYxHvG2HoRbqo0SbAhoeGfWbKnAvjqiac0xTVUcc_mdxrCxCNsW5n6sqZvh2F1QcYo) ![](https://img.shields.io/badge/Text-yellow) ![](https://img.shields.io/badge/Audio-blue) ![](https://img.shields.io/badge/Video-red)
